@@ -5,5 +5,6 @@
 
 第一个版本设计：
 ![VERSION1](/img_storage/version1.png)
+
 第二个版本设计：
 ![VERSION2](/img_storage/version2.png)
